@@ -1,0 +1,12 @@
+#menu{
+    border: 1px solid black;
+    width: 80%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 50px;
+}
+#avatar{
+    height: 200px;
+    width: 200px;
+}
